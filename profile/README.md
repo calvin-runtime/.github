@@ -9,8 +9,7 @@ security contracts, across compatible agents and model providers.
 
 The project is in its early design stage. Start with
 [calvin-runtime/spec](https://github.com/calvin-runtime/spec) for the architecture
-proposal, security review, and integration research. Stable contracts, a reference
-implementation, and executable conformance tooling are planned work.
+proposal and developing specification.
 
 ## The core idea
 
@@ -47,5 +46,4 @@ useful at this stage.
 
 Calvin grows out of [Agent Sandbox](https://github.com/mattolson/agent-sandbox),
 expanding a local coding-agent sandbox into a proposed framework for broader agent
-workloads. *Runtime* names the isolation and guest-execution component within
-Calvin.
+workloads.
